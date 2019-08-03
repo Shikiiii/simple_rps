@@ -218,13 +218,13 @@ void draw() {
       
       textSize(20);
       fill(0,0,0);
-      text("КАМЪК", 65,160);
-      text("КАМЪК", 465, 160);
+      text("ROCK", 65,160);
+      text("ROCK", 465, 160);
       
       textSize(20);
       fill(0,0,0);
-      text("ТИ:", 80, 90);
-      text("ПРОТИВНИК:", 450,90);
+      text("YOU:", 80, 90);
+      text("BOT:", 450,90);
 
       textSize(30);
       fill(0,0,0);
@@ -240,7 +240,7 @@ void draw() {
     
       fill(0,0,0);
       textSize(30);
-      text("Нова игра", 230, 235);
+      text("New game", 230, 235);
     
       if((mouseX < 400) && (mouseX > 200) && (mouseY < 250) && (mouseY > 200) && (mousePressed)) {
 
@@ -269,17 +269,17 @@ void draw() {
       
       textSize(20);
       fill(0,0,0);
-      text("ХАРТИЯ", 60, 160);
-      text("НОЖИЦА", 455, 160);
+      text("ROCK", 60, 160);
+      text("ROCK", 455, 160);
       
       textSize(20);
       fill(0,0,0);
-      text("ТИ:", 80, 90);
-      text("ПРОТИВНИК:", 450,90);
+      text("YOU:", 80, 90);
+      text("BOT:", 450,90);
 
       textSize(30);
       fill(0,0,0);
-      text("ГУБИШ!", 250,160);
+      text("YOU LOSE!", 250,160);
       while(a) {
         println("Winner: BOT");
         gamecount++;
@@ -291,7 +291,7 @@ void draw() {
     
       fill(0,0,0);
       textSize(30);
-      text("Нова игра", 230, 235);
+      text("New game", 230, 235);
     
       if((mouseX < 400) && (mouseX > 200) && (mouseY < 250) && (mouseY > 200) && (mousePressed)) {
 
@@ -319,17 +319,17 @@ void draw() {
       
       textSize(20);
       fill(0,0,0);
-      text("ХАРТИЯ", 60, 160);
-      text("КАМЪК", 465, 160);
+      text("ROCK", 60, 160);
+      text("ROCK", 465, 160);
       
       textSize(20);
       fill(0,0,0);
-      text("ТИ:", 80, 90);
-      text("ПРОТИВНИК:", 450,90);
+      text("YOU:", 80, 90);
+      text("BOT:", 450,90);
 
       textSize(30);
       fill(0,0,0);
-      text("ПЕЧЕЛИШ!", 220,160);
+      text("YOU WIN!", 220,160);
       while(a) {
         println("Winner: PLAYER");
         gamecount++;
@@ -341,7 +341,7 @@ void draw() {
     
       fill(0,0,0);
       textSize(30);
-      text("Нова игра", 230, 235);
+      text("New game", 230, 235);
     
       if((mouseX < 400) && (mouseX > 200) && (mouseY < 250) && (mouseY > 200) && (mousePressed)) {
 
@@ -369,13 +369,13 @@ void draw() {
       
       textSize(20);
       fill(0,0,0);
-      text("ХАРТИЯ", 65,160);
-      text("ХАРТИЯ", 460, 160);
+      text("ROCK", 65,160);
+      text("ROCK", 460, 160);
       
       textSize(20);
       fill(0,0,0);
-      text("ТИ:", 80, 90);
-      text("ПРОТИВНИК:", 450,90);
+      text("YOU:", 80, 90);
+      text("BOT:", 450,90);
 
       textSize(30);
       fill(0,0,0);
@@ -391,7 +391,7 @@ void draw() {
     
       fill(0,0,0);
       textSize(30);
-      text("Нова игра", 230, 235);
+      text("New game", 230, 235);
     
       if((mouseX < 400) && (mouseX > 200) && (mouseY < 250) && (mouseY > 200) && (mousePressed)) {
 
@@ -419,17 +419,17 @@ void draw() {
       
       textSize(20);
       fill(0,0,0);
-      text("НОЖИЦА", 55, 160);
-      text("КАМЪК", 465, 160);
+      text("ROCK", 55, 160);
+      text("ROCK", 465, 160);
       
       textSize(20);
       fill(0,0,0);
-      text("ТИ:", 80, 90);
-      text("ПРОТИВНИК:", 450,90);
+      text("YOU:", 80, 90);
+      text("BOT:", 450,90);
 
       textSize(30);
       fill(0,0,0);
-      text("ГУБИШ!", 250,160);
+      text("YOU LOSE!", 250,160);
       while(a) {
         println("Winner: BOT");
         gamecount++;
@@ -441,7 +441,7 @@ void draw() {
     
       fill(0,0,0);
       textSize(30);
-      text("Нова игра", 230, 235);
+      text("New game", 230, 235);
     
       if((mouseX < 400) && (mouseX > 200) && (mouseY < 250) && (mouseY > 200) && (mousePressed)) {
 
@@ -470,17 +470,17 @@ void draw() {
       
       textSize(20);
       fill(0,0,0);
-      text("НОЖИЦА", 55, 160);
-      text("ХАРТИЯ", 460, 160);
+      text("ROCK", 55, 160);
+      text("ROCK", 460, 160);
       
       textSize(20);
       fill(0,0,0);
-      text("ТИ:", 80, 90);
-      text("ПРОТИВНИК:", 450,90);
+      text("YOU:", 80, 90);
+      text("BOT:", 450,90);
 
       textSize(30);
       fill(0,0,0);
-      text("ПЕЧЕЛИШ!", 220,160);
+      text("YOU WIN!", 220,160);
       while(a) {
         println("Winner: PLAYER");
         gamecount++;
@@ -492,7 +492,7 @@ void draw() {
     
       fill(0,0,0);
       textSize(30);
-      text("Нова игра", 230, 235);
+      text("New game", 230, 235);
     
       if((mouseX < 400) && (mouseX > 200) && (mouseY < 250) && (mouseY > 200) && (mousePressed)) {
 
@@ -520,13 +520,13 @@ void draw() {
       
       textSize(20);
       fill(0,0,0);
-      text("НОЖИЦА", 55,160);
-      text("НОЖИЦА", 455, 160);
+      text("ROCK", 55,160);
+      text("ROCK", 455, 160);
       
       textSize(20);
       fill(0,0,0);
-      text("ТИ:", 80, 90);
-      text("ПРОТИВНИК:", 450,90);
+      text("YOU:", 80, 90);
+      text("BOT:", 450,90);
 
       textSize(30);
       fill(0,0,0);
@@ -542,7 +542,7 @@ void draw() {
     
       fill(0,0,0);
       textSize(30);
-      text("Нова игра", 230, 235);
+      text("New game", 230, 235);
     
       if((mouseX < 400) && (mouseX > 200) && (mouseY < 250) && (mouseY > 200) && (mousePressed)) {
 
@@ -562,7 +562,7 @@ void draw() {
     }
 }
 
-// Ако не работи, ще се рестартира.
+// If it encounters any errors, it'll try to solve them. (FAILED)
 /*if((choose) && ((bchoice_rock = false) && (bchoice_paper = false) && (bchoice_scissors = false)) && ((pchoice_rock = true) || (pchoice_paper = true) || (pchoice_scissors = true))) {
   forcerestart();
 }
