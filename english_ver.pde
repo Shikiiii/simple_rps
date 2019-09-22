@@ -21,7 +21,7 @@ void setup() {
 
 void draw() {
   if(choose) {
-    // Прави менюто за избиране.
+    // Makes the menu.
     background(#323944);
     fill(255,255,255);
     rect(100,100,100,100);
@@ -228,7 +228,7 @@ void draw() {
 
       textSize(30);
       fill(0,0,0);
-      text("РАВЕНСТВО!", 220,160);
+      text("DRAW!", 220,160);
       while(a) {
         println("Winner: -");
         gamecount++;
@@ -379,7 +379,7 @@ void draw() {
 
       textSize(30);
       fill(0,0,0);
-      text("РАВЕНСТВО!", 220,160);
+      text("DRAW!", 220,160);
       while(a) {
         println("Winner: -");
         gamecount++;
@@ -530,7 +530,7 @@ void draw() {
 
       textSize(30);
       fill(0,0,0);
-      text("РАВЕНСТВО!", 220,160);
+      text("DRAW!", 220,160);
       while(a) {
         println("Winner: -");
         gamecount++;
